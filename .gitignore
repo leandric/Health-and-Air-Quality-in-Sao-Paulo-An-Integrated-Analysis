@@ -6,7 +6,7 @@ __pycache__/
 #bases
 *.csv
 *.xlsx
-
+*.Identifier
 
 # C extensions
 *.so
